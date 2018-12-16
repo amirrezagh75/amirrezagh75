@@ -1,6 +1,6 @@
 # This is my resume 
 ---
- Hi. this is my online resume. I have use these methods for my design.
+ Hi. this is my online resume. I have used these methods for my design.
 
  1. **html5**
  2. **css3**
