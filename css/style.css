@@ -534,8 +534,7 @@ color: #777;
     }
   }
   /*Back to top btn*/
-  #to-top {position: fixed;bottom: 20px;right: 30px;background-color: #08b76e;color: white;cursor: pointer;padding: 0.4%;border-radius: 50%;
-  }
+  #to-top {position: fixed;bottom: 20px;right: 30px;background-color: #08b76e;color: white;cursor: pointer;padding: 0.4%;border-radius: 50%; z-index: 1000;}
   
   #to-top:hover {
 	background-color: #e01f00;
