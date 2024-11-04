@@ -30,8 +30,8 @@ Beyond coding, you'll find me:
 - **Building side projects**: Experimenting with emerging technologies to learn and have fun.
 
 ## 🤝 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/amirrezagh75)
-- **Email**: [your.email@example.com](mailto:amirreza.ghovanlou@gmail.com)
+- **LinkedIn**: [Amirrezagh75](https://linkedin.com/in/amirrezagh75)
+- **Email**: [amirreza.ghovanlou@gmail.com](mailto:amirreza.ghovanlou@gmail.com)
 
 
 ### Fun Fact: I believe that good code should not only work well but be a joy to read and understand!
