@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Amirreza Ghajar!
 
-I'm a passionate software engineer specializing in backend development, currently contributing to the awesome projects at [Safarbazi](https://safarbazi.com) and [Candoo](https://candoo.com).
+I'm a passionate software engineer specializing in backend development, currently contributing to the awesome projects at [Safarbazi](https://safarbazi.com) and [Candoo](https://www.candoosms.com/).
 
 ## 💻 What I Do
 At my core, I'm a creator who loves solving complex problems and optimizing systems. My focus is on crafting efficient, scalable, and secure backend services that power the digital world. Whether it's developing APIs, setting up secure communication between systems, or streamlining CI/CD processes, I strive to deliver clean and maintainable code.
